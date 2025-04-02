@@ -1,2 +1,1 @@
-# Датаком ХХК - Дадлага #3
-NextJS 14.2.6 энгийн жишиг вэб хуудсын front-end хэсгийн кодын сан
+# Sample NextJS front-end for node auto deployment
